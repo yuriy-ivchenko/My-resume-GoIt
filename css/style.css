@@ -23,9 +23,9 @@ body {
   box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 }
 .lang{
-  position:relative;
-  top:-80px;
-  left:685px;
+  position:absolute;
+  top:50px;
+  right:90px;
   width:38px;
   height: 70px;
   background-color: gray;
